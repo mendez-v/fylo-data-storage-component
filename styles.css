@@ -32,7 +32,7 @@ body {
   grid-template-rows: 1fr auto;
   place-items: center;
   font-family: var(--main-ff), var(--backup-ff);
-  background: url('./assets/image/bg-mobile.webp') no-repeat center / contain var(--very-dark-blue);
+  background: url('./assets/image/bg-mobile.webp') no-repeat center center / cover var(--very-dark-blue);
   color: var(--pale-blue);
 }
 @media (width >= 906px) {
@@ -47,8 +47,8 @@ body {
   --dark-blue: hsl(228, 56%, 26%);
   --very-dark-blue: hsl(229, 57%, 11%);
   --white: hsl(0, 0%, 100%);
-  --pink: #FFA197;
-  --fuchsia: #FF4A95;
+  --pink: hsl(6, 100%, 80%);
+  --fuchsia: hsl(335, 100%, 65%);
 
   --main-ff: 'Raleway';
   --backup-ff: Arial, Helvetica, sans-serif;

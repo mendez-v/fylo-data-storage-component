@@ -34,7 +34,8 @@ Users should be able to:
 
 [Live Site](https://mendez-v.github.io/fylo-data-storage-component/) 👀
 
-<!-- [Frontend Mentor](https://your-live-site-url.com) 👀 -->
+<!-- [Solution in Frontend Mentor](https://your-live-site-url.com) 👀 -->
+[Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 
 ## *Built with*
